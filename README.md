@@ -1,2 +1,2 @@
-# Marmara-Universitesi-C-km-s-Sorular
+# Marmara-Universitesi-Cikmis-Sorular
 marmara üniversitesinde algoritma dersinde çıkmış eski soruların olduğu repo
